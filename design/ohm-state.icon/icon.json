@@ -1,0 +1,107 @@
+{
+  "fill" : {
+    "automatic-gradient" : "display-p3:0.00000,0.00000,0.00000,1.00000"
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "fill" : {
+            "solid" : "display-p3:0.40889,0.29863,0.19678,1.00000"
+          },
+          "hidden" : false,
+          "image-name" : "02-earcups.svg",
+          "name" : "02-earcups"
+        }
+      ],
+      "position" : {
+        "scale" : 1.14,
+        "translation-in-points" : [
+          0,
+          0
+        ]
+      },
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : false,
+        "value" : 0.7
+      }
+    },
+    {
+      "blur-material" : null,
+      "layers" : [
+        {
+          "fill" : {
+            "automatic-gradient" : "display-p3:0.77471,0.65129,0.51142,1.00000"
+          },
+          "image-name" : "04-voltage.svg",
+          "name" : "04-voltage",
+          "position" : {
+            "scale" : 1.33,
+            "translation-in-points" : [
+              -19.285000000000082,
+              86.00000000000011
+            ]
+          }
+        }
+      ],
+      "position" : {
+        "scale" : 1.14,
+        "translation-in-points" : [
+          0,
+          0
+        ]
+      },
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.51
+      }
+    },
+    {
+      "layers" : [
+        {
+          "fill" : {
+            "solid" : "display-p3:0.46604,0.33002,0.22194,1.00000"
+          },
+          "image-name" : "01-headband.svg",
+          "name" : "01-headband",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              0,
+              0
+            ]
+          }
+        }
+      ],
+      "position" : {
+        "scale" : 1.14,
+        "translation-in-points" : [
+          0,
+          0
+        ]
+      },
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.3
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}

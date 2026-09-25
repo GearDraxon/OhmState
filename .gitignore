@@ -1,0 +1,9 @@
+build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+.DS_Store
+
+# Design explorations stay local; only the shipping icon is tracked.
+design/*
+!design/ohm-state.icon/
